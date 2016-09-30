@@ -122,8 +122,7 @@ font:
 # Value is the target link (E.g. GitHub: https://github.com/iissnan)
 social:
   GitHub: https://www.github.com/kzinglzy
-  # LinkLabel: Link
-
+  Twitter: https://twitter.com/kzinglzy
 
 # Social Links Icons
 # Icon Mapping:
@@ -142,7 +141,7 @@ social_icons:
 # Sidebar Avatar
 # in theme directory(source/images): /images/avatar.jpg
 # in site  directory(source/uploads): /uploads/avatar.jpg
-avatar: https://cloud.githubusercontent.com/assets/5821522/18964907/829f09c2-86ad-11e6-91bd-471c51c3cec5.jpg
+avatar: https://avatars1.githubusercontent.com/u/5821522
 
 
 # Table Of Contents in the Sidebar
@@ -170,9 +169,9 @@ sidebar:
   #  - always  expand for all pages automatically
   #  - hide    expand only when click on the sidebar toggle icon.
   #  - remove  Totally remove sidebar including sidebar toggler.
-  display: post
+  # display: post
   #display: always
-  #display: hide
+  display: hide
   #display: remove
 
 
