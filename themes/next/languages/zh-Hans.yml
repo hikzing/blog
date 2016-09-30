@@ -6,11 +6,11 @@ title:
 author: 博主
 
 menu:
-  home: 首页
+  home: Home
   archives: 归档
   categories: 分类
   tags: 标签
-  about: 关于
+  about: About
   search: 搜索
   commonweal: 公益404
 
@@ -32,9 +32,9 @@ page:
   totally: 共有
   tags: 标签
 
-footer:
-  powered: "由 %s 强力驱动"
-  theme: 主题
+# footer:
+#   powered: "由 %s 强力驱动"
+#   theme: 主题
 
 
 counter:
@@ -54,7 +54,7 @@ counter:
     other: "目前共计 %d 篇日志。"
 
 state:
-  posts: 日志
+  posts: posts
   pages: 页面
   tags: 标签
   categories: 分类
